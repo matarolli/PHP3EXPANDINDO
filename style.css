@@ -8,12 +8,12 @@ body {
 }
 /* cabeçalho */
 header {
-  /* background-image: url('src/assets/img/sunshinebeach-min.jpg'); */
+  background-image: url('src/assets/img/sunshinebeach-min.jpg');
   background-size: cover;
   background-position: center;
   color: #25c302;
   text-align: center;
-  height: 500px;
+  height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
