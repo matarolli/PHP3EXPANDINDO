@@ -1,8 +1,21 @@
+/* Esquema de cor */
+
+:root {
+  --color1: #291f58;
+  --color2: #3c205c;
+  --color3: #522161;
+  --color4: #652161;
+  --color5: #6a224f;
+}
+
+
+/* -------------------------- */
+
 /* Estilos básicos */
 body {
   font-family: Arial, sans-serif;
-  background-color: #efebad;
-  color: #333;
+  background-color: var(--color4);
+  color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -24,7 +37,7 @@ header {
 nav ul {
   list-style: none;
   padding: 0;
-  background-color: #333;
+  background-color: var(--color1);
   text-align: center;
   margin: 0;
 }
@@ -42,16 +55,16 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #555;
+  background-color: var(--color4);
 }
-
+ 
 /* Estilo do Main */
 main {
   padding: 20px;
 }
 
 h2 {
-  color: #444;
+  color: #fff;
   text-align: center;
 }
 
