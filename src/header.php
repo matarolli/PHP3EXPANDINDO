@@ -13,10 +13,8 @@
     <header>
 
         <h1 class="highlighted-text-shadow">
-            CSS<br>
-            TEXT<br>
-            SHADOW<br>
-            HIGHLIGHT
+            BEM<br>
+            VINDO<br>
         </h1>
 
         <small>That <code>2px</code> (almost) white highlight on the top of the text makes it seem as though there's a
