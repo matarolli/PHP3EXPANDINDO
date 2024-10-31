@@ -14,10 +14,9 @@
 
         <h1 class="highlighted-text-shadow">
             BEM<br>
-            VINDO<br>
+            VINDO
         </h1>
-
-        <small>That <code>2px</code> (almost) white highlight on the top of the text makes it seem as though there's a
-            light source.</small>
+        <small>Isto é em <code>2px</code> Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum
+            sint consectetur cupidatat. </small>
 
     </header>
