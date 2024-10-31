@@ -12,16 +12,14 @@
 <body>
     <header>
 
-        <div id="text-container">
-            <div id="line-one">
-                <h1>Bem </h1< />
-            </div>
-            <div id="line-two">
-                <h1>vindo!</h1< />
-            </div>
-            <div id="line-three">
-                <h1>...</h1< />
-            </div>
-        </div>
+        <h1 class="highlighted-text-shadow">
+            CSS<br>
+            TEXT<br>
+            SHADOW<br>
+            HIGHLIGHT
+        </h1>
+
+        <small>That <code>2px</code> (almost) white highlight on the top of the text makes it seem as though there's a
+            light source.</small>
 
     </header>
